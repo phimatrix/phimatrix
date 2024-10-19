@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matrix
 - 👀 I’m interested in webdevelopment.
-- 🌱 I’m currently learning development and ML.
+- 🌱 I’m currently learning web development and ML.
 - 💞️ I’m looking to collaborate on frontend.
 - 📫 How to reach me nandp000@gmail.com.
 - 😄 Pronouns: she/her
