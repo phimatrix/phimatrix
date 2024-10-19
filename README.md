@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend.
 - 📫 How to reach me nandp000@gmail.com.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: stay kind, even when misunderstood.
+- ⚡ Fun fact: Noone can lie to themselves. 
 
 <!---
 moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
