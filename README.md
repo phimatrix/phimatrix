@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nandp000@gmail.com**
 
-- ⚡ Fun fact **Using beautiful words seems and feels beautiful, doesn't it???.**
+- ⚡ Fun fact **Things do matter when we care about them, doesn't it???🫤.**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
