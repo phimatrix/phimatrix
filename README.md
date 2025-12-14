@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm phimatrix</h1>
-<h3 align="center">A passionate web developer (MERN) from India.</h3>
+<h3 align="center">A passionate web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phimatrix&label=Profile%20views&color=0e75b6&style=flat" alt="phimatrix" /> </p>
 
-- 🌱 I’m currently learning **web development and ML**
+- 🌱 I’m currently learning **AI and ML**
 
 - 📫 How to reach me **nandp000@gmail.com**
 
-- ⚡ Fun fact **"Things truly matter when we care about them, don't they?".**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
