@@ -57,10 +57,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phimatrix&show_icons=true&locale=en" alt="phimatrix" /></p>
-
-<p><img align="center" src="https://![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phimatrix&show_icons=true&theme=tokyonight&hide_border=true)/?user=phimatrix&" alt="phimatrix" /></p>
-
 
 <!---
 moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
