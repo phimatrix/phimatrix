@@ -58,7 +58,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phimatrix&show_icons=true&locale=en" alt="phimatrix" /></p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phimatrix&show_icons=true&theme=tokyonight&hide_border=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phimatrix&" alt="phimatrix" /></p>
 
 
