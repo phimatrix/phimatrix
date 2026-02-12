@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phimatrix&label=Profile%20views&color=0e75b6&style=flat" alt="phimatrix" /> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 AI/ML Developer focused on real-world problem solving
 
 - 📫 How to reach me **nandp000@gmail.com**
 
