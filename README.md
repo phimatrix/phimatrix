@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm phimatrix</h1>
-<h3 align="center">A passionate AI-ML Engineer from India.</h3>
+<h3 align="center">Final Year CSE (AI/ML) | Building Intelligent Systems & Full-Stack Applications | Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phimatrix&label=Profile%20views&color=0e75b6&style=flat" alt="phimatrix" /> </p>
 
