@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **nandp000@gmail.com**
 ## 👩‍💻 About Me
+
 - 🎓 Final Year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning  
 - 🚀 AI/ML Intern at ISRO, Kolkata – working on applied remote sensing , data analysis and satellite images  
 - 🤖 Comfortable with Linux environments and full-stack application development
@@ -14,14 +15,13 @@
 - 💡 Passionate about building end-to-end intelligent solutions combining ML with real-world applications  
 - 📚 Continuously learning and exploring advanced AI techniques
 - 📍 Based in India
-<div style="position: relative; height: 400px;">
- </div>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<td>
- 
+
 ### 💻 Programming Languages
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -33,7 +33,7 @@
 ### 🤖 AI / ML & Data
 <p>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>                   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
 </p>
 
@@ -43,7 +43,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-</p>                                                                                                                                         
+
+</p>
+
 
 ### 🛢️ Databases
 <p>
@@ -51,15 +53,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
-### 🧰 Tools & Environment                                                                                                             
+### 🧰 Tools & Environment
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
-</td>
 
 
 <!---
 moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+what to do as my gif is above and i wantto place it little bit down in corner side bottom
