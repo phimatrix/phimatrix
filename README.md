@@ -23,7 +23,7 @@
     alt="coding"
   />
 </div>
-<p align="left">
+<p align="right">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
