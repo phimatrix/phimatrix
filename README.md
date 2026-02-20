@@ -20,10 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="center" width="100%" style="border: none;">
-<tr>
-<td width="70%" valign="top" style="border: none;">
-
+<td>
 ### 💻 Programming Languages
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -66,8 +63,6 @@
 <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="180"/>
 
 </td>
-</tr>
-</table>
 
 <!---
 moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
