@@ -65,4 +65,3 @@ moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-what to do as my gif is above and i wantto place it little bit down in corner side bottom
