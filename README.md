@@ -58,6 +58,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
  </tr>
+</table>
  <p align="right">
   <img 
     src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
@@ -65,8 +66,6 @@
     style="margin-top: 40px;"
   />
 </p>
-</table>
-
 
 <!---
 moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
