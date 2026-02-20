@@ -63,7 +63,7 @@
 
 <td width="30%" align="right" valign="bottom">
 
-<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="180"/>
 
 </td>
 </tr>
