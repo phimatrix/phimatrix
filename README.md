@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nandp000@gmail.com**
 ## 👩‍💻 About Me
-<img align="right" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" />
 <table>
 <tr>
 <td width="60%">
@@ -62,10 +61,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
  </td>
- <td width="40%">
-<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="300"/>
-</td>
-
 </tr>
 </table>
 
