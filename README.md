@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **nandp000@gmail.com**
 ## 👩‍💻 About Me
-
+<table>
+<tr>
+<td width="60%">
 - 🎓 Final Year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning  
 - 🚀 AI/ML Intern at ISRO, Kolkata – working on applied remote sensing , data analysis and satellite images  
 - 🤖 Comfortable with Linux environments and full-stack application development
@@ -58,12 +60,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
- <img 
-    src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
-    width="350"
-    style="position: absolute; bottom: 0; right: 0;"
-    alt="coding"
-  />
+ </td>
+ <td width="40%">
+<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="300"/>
+</td>
+
+</tr>
+</table>
 
 
 <!---
