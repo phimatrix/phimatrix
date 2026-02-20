@@ -20,9 +20,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table align="center" width="100%" style="border: none;">
 <tr>
-<td width="70%" valign="top">
+<td width="70%" valign="top" style="border: none;">
 
 ### 💻 Programming Languages
 <p>
