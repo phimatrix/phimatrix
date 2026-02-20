@@ -15,8 +15,13 @@
 - 💡 Passionate about building end-to-end intelligent solutions combining ML with real-world applications  
 - 📚 Continuously learning and exploring advanced AI techniques
 - 📍 Based in India
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+<p align="right">
+  <img 
+    src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
+    width="300"
+    alt="coding"
+  />
+</p>
 <p align="left">
 </p>
 
