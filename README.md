@@ -20,6 +20,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 ### 💻 Programming Languages
 <p>
@@ -56,16 +59,15 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
- </tr>
+</td>
+
+<td width="30%" align="right" valign="bottom">
+
+<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="280"/>
+
+</td>
+</tr>
 </table>
- <p align="right">
-  <img 
-    src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
-    width="280"
-    style="margin-top: 20px;"
-  />
-</p>
 
 <!---
 moonlitsky10/moonlitsky10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
