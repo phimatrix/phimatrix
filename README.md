@@ -16,7 +16,7 @@
 - 📚 Continuously learning and exploring advanced AI techniques
 - 📍 Based in India
 
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 <p align="left">
 </p>
 
