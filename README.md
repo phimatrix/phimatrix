@@ -16,14 +16,8 @@
 - 📚 Continuously learning and exploring advanced AI techniques
 - 📍 Based in India
 <div style="position: relative; height: 400px;">
-  <img 
-    src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
-    width="350"
-    style="position: absolute; bottom: 0; right: 0;"
-    alt="coding"
-  />
-</div>
-<p align="right">
+ </div>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,11 +53,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
-### 🧰 Tools & Environment
+### 🧰 Tools & Environment                                                                                                             
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
+ <img 
+    src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
+    width="350"
+    style="position: absolute; bottom: 0; right: 0;"
+    alt="coding"
+  />
 
 
 <!---
