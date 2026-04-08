@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final Year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning  
-- 🚀 AI/ML Intern at NRSC,ISRO Kolkata – working on applied remote sensing , data analysis and satellite images  
+- 🚀 AI/ML Intern at NRSC,ISRO Kolkata – worked on applied remote sensing , data analysis and satellite images  
 - 🤖 Comfortable with Linux environments and full-stack application development
 - 💻 Intrested in AI and ML
 - 💡 Passionate about building end-to-end intelligent solutions combining ML with real-world applications  
