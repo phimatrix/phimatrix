@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm phimatrix</h1>
-<h3 align="center">Final Year CSE (AI/ML) · Building intelligent systems and full-stack applications · Python developer from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phimatrix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=phimatrix&fontSize=60&animation=fadeIn&fontAlignY=35" alt="phimatrix banner" width="100%"/>
+
+<a href="https://github.com/phimatrix">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+phimatrix;B.Tech+CSE+(AI%2FML)+Graduate;AI%2FML+Engineer+%7C+Python+Developer;Remote+Sensing+%26+Satellite+Image+Fusion;Building+Intelligent+Systems" alt="Typing animation" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=phimatrix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 ## 👩‍💻 About me
 
-- 🎓 Final-year B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**
+- 🎓 **B.Tech CSE graduate**, specialized in **Artificial Intelligence & Machine Learning**
 - 🛰️ AI/ML Intern at **NRSC, ISRO (Kolkata)**: applied remote sensing, data analysis and satellite image fusion
 - 🤖 Building end-to-end solutions that combine ML with real-world applications
 - 🐧 Comfortable on Linux and with full-stack development
@@ -66,3 +71,20 @@ Also: Google Earth Engine, Ollama, faster-whisper, Piper TTS
 | [memegenerator](https://github.com/phimatrix/memegenerator) | Website that generates memes, jokes, quotes and riddles |
 | [financial-report-generator](https://github.com/phimatrix/financial-report-generator) | React and Chart.js financial report generator |
 | [Adwaita-dark-red_Theme](https://github.com/phimatrix/Adwaita-dark-red_Theme) | Dark red Adwaita theme for GTK 3, GTK 4 and Xfce |
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phimatrix&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phimatrix&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=phimatrix&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+## 📈 Contribution activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phimatrix&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" width="100%"/>
