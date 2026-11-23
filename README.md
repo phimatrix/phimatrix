@@ -87,4 +87,14 @@ Also: Google Earth Engine, Ollama, faster-whisper, Piper TTS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phimatrix&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
 </div>
 
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phimatrix/phimatrix/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phimatrix/phimatrix/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/phimatrix/phimatrix/output/github-snake.svg" />
+  </picture>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" width="100%"/>
