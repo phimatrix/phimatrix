@@ -43,6 +43,7 @@
 
 - 🎓 **B.Tech CSE graduate**, specialized in **Artificial Intelligence & Machine Learning**
 - 🛰️ AI/ML Intern at **NRSC, ISRO (Kolkata)**: applied remote sensing, data analysis and satellite image fusion
+- 💼 AI/ML Engineer & web developer at **Digital Sparrow**, and co-founder of **[SeedLaunch](https://seedlaunch.co)**
 - 🤖 Building end-to-end solutions that combine ML with real-world applications
 - 🐧 Comfortable on Linux and with full-stack development
 - 📚 Always learning new AI techniques
@@ -94,6 +95,9 @@ Also: Google Earth Engine, Ollama, faster-whisper, Piper TTS
 |---|---|
 | [newsscrapper](https://github.com/phimatrix/newsscrapper) | News scraper and summarizer with analysis, text-to-speech and a web interface |
 | [movie-recommendation-system](https://github.com/phimatrix/movie-recommendation-system) | Movie recommendations in Python with a web app and dataset |
+| [voice-assistant-chatbot](https://github.com/phimatrix/voice-assistant-chatbot) | Local voice assistant: faster-whisper speech-to-text, Ollama replies, Piper speech |
+| [Automated_blog_system](https://github.com/phimatrix/Automated_blog_system) | Company website with an AI blog generator that writes and publishes SEO posts |
+| [newhomepage](https://github.com/phimatrix/newhomepage) | SeedLaunch homepage (seedlaunch.co) in HTML on GitHub Pages |
 | [gesturecontrol](https://github.com/phimatrix/gesturecontrol) | Mouse control using eye and hand tracking |
 | [GEEproject](https://github.com/phimatrix/GEEproject) | Google Earth Engine pipeline with AOI files, config and scripts |
 | [chatbot2](https://github.com/phimatrix/chatbot2) | Python chatbot with text and voice modes |
@@ -108,12 +112,6 @@ Also: Google Earth Engine, Ollama, faster-whisper, Piper TTS
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phimatrix&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=phimatrix&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-## 📈 Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phimatrix&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
 </div>
 
 ## 🐍 Contribution snake
