@@ -58,10 +58,28 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV"/>
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" title="Hugging Face"/>
-<img src="https://cdn.simpleicons.org/ollama/888888" width="40" height="40" alt="Ollama" title="Ollama"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" title="MATLAB"/>
 <img src="https://cdn.simpleicons.org/googleearthengine/4285F4" width="40" height="40" alt="Google Earth Engine" title="Google Earth Engine"/>
+</p>
+
+**AI tools & runtimes**
+<p>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/claude-code.svg" width="40" height="40" alt="Claude Code" title="Claude Code"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/chatgpt.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/hermes.svg" width="40" height="40" alt="Hermes" title="Hermes"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" title="Hugging Face"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/ollama.svg" width="40" height="40" alt="Ollama" title="Ollama"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/llama-cpp.svg" width="40" height="40" alt="llama.cpp" title="llama.cpp"/>
+</p>
+
+**AI models**
+<p>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/stable-diffusion.svg" width="40" height="40" alt="Stable Diffusion" title="Stable Diffusion"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/gemma.svg" width="40" height="40" alt="Gemma" title="Gemma"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/qwen.svg" width="40" height="40" alt="Qwen" title="Qwen"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/llama.svg" width="40" height="40" alt="Llama" title="Llama"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/mistral.svg" width="40" height="40" alt="Mistral" title="Mistral"/>
+<img src="https://raw.githubusercontent.com/phimatrix/phimatrix/main/assets/icons/deepseek.svg" width="40" height="40" alt="DeepSeek" title="DeepSeek"/>
 </p>
 
 **Data visualisation**
