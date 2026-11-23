@@ -8,6 +8,35 @@
 
 <img src="https://komarev.com/ghpvc/?username=phimatrix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
+<p>
+<a href="https://github.com/phimatrix?tab=followers"><img src="https://img.shields.io/github/followers/phimatrix?label=Followers&logo=github&style=flat&color=0e75b6" alt="Followers"/></a>
+<a href="https://github.com/phimatrix?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/phimatrix&query=$.public_repos&label=Public%20repos&logo=github&style=flat&color=0e75b6" alt="Public repos"/></a>
+<img src="https://img.shields.io/github/last-commit/phimatrix/newsscrapper?label=Last%20commit&style=flat&color=0e75b6" alt="Last commit"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-0e75b6?style=flat" alt="B.Tech CSE AI/ML"/>
+<img src="https://img.shields.io/badge/Intern-NRSC%20ISRO-f26522?style=flat" alt="NRSC ISRO"/>
+<img src="https://img.shields.io/badge/Focus-Remote%20Sensing-2ea44f?style=flat&logo=googleearth&logoColor=white" alt="Remote sensing"/>
+<img src="https://img.shields.io/badge/Focus-GenAI%20%26%20LLMs-8a2be2?style=flat" alt="GenAI"/>
+<img src="https://img.shields.io/badge/OS-Linux%20Mint-87cf3e?style=flat&logo=linuxmint&logoColor=white" alt="Linux Mint"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+<p>
+<a href="mailto:nandp000@gmail.com"><img src="https://img.shields.io/badge/Email-nandp000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://seedlaunch.co"><img src="https://img.shields.io/badge/SeedLaunch-seedlaunch.co-f62684?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SeedLaunch"/></a>
+</p>
+
 </div>
 
 ## 👩‍💻 About me
