@@ -24,6 +24,7 @@
 <p>
 <a href="mailto:nandp000@gmail.com"><img src="https://img.shields.io/badge/Email-nandp000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://seedlaunch.co"><img src="https://img.shields.io/badge/SeedLaunch-seedlaunch.co-f62684?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SeedLaunch"/></a>
+<a href="https://huggingface.co/phimatrix"><img src="https://img.shields.io/badge/Hugging%20Face-phimatrix-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 </div>
@@ -37,6 +38,7 @@
 - 🐧 Comfortable on Linux and with full-stack development
 - 📚 Always learning new AI techniques
 - 📍 Based in India
+- 🤗 Models and demos on **[Hugging Face](https://huggingface.co/phimatrix)**
 - 📫 Reach me at **nandp000@gmail.com**
 
 ## 🛠️ Tech stack
